@@ -1,0 +1,13 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "index": "foo.js",
+  "devDependencies": {
+    "lib-shell": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node foo.js"
+  }
+}
